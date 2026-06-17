@@ -1,1 +1,6 @@
-
+A Colab that dynamically pulls the latest earnings and rent statistics to answer the question: what percentage of average provincial earnings are taken up by rent in major Canadian cities? 
+Sources: Statistics Canada. Table 14-10-0203-01  Average weekly earnings by industry, monthly, unadjusted for seasonality; Statistics Canada. Table 46-10-0092-01  Asking rent prices, by rental unit type and number of bedrooms, experimental estimates
+Notes: 
+- this colab estimates average monthly income after-taxes based on weekly earnings from StatCan expanded to monthly and with 15% knocked off for taxes
+- it was prepared with the assistance of Google Gemini as a coding tool
+- reasonable efforts made to make sure these numbers are correct but anyone relying on these numbers should do their own numbers and not rely solely on this
